@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pimoroni.Blinkt.Net", "Pimoroni.Blinkt.Net.csproj", "{1296DF97-9DE3-41C9-A0D0-BC4BD8F85399}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pimoroni.Blinkt.Net", "Pimoroni.Blinkt.Net\Pimoroni.Blinkt.Net.csproj", "{D2AA345C-8AB3-4E70-8FC3-7416E057C0E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1296DF97-9DE3-41C9-A0D0-BC4BD8F85399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1296DF97-9DE3-41C9-A0D0-BC4BD8F85399}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1296DF97-9DE3-41C9-A0D0-BC4BD8F85399}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1296DF97-9DE3-41C9-A0D0-BC4BD8F85399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2AA345C-8AB3-4E70-8FC3-7416E057C0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AA345C-8AB3-4E70-8FC3-7416E057C0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AA345C-8AB3-4E70-8FC3-7416E057C0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AA345C-8AB3-4E70-8FC3-7416E057C0E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
